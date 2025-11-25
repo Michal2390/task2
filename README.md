@@ -88,3 +88,37 @@ You should find sensitive data logged in:
 2. **Use Automated Tools**
    
    You can use `gitleaks` to scan for secrets:
+
+
+   <img width="335" height="468" alt="image" src="https://github.com/user-attachments/assets/572aea59-fd94-4829-b22f-9ee8a70fa75e" />
+
+   ## 🎯 Best Practices Applied
+
+### 1. Defense in Depth
+- ✅ Masking at log point
+- ✅ No PII in analytics
+- ✅ Encrypted logs at rest (recommended)
+- ✅ Secure log transmission
+
+### 2. Principle of Least Privilege
+- ✅ Logs contain minimum necessary info
+- ✅ Debug data available without exposing PII
+- ✅ Audit trail maintained
+
+### 3. Privacy by Design
+- ✅ PII protection built into logging
+- ✅ Default to secure
+- ✅ Transparent data handling
+
+### 4. Maintainability
+- ✅ Centralized masking logic
+- ✅ Easy to update policies
+- ✅ Well-documented code
+- ✅ Unit tested
+
+### 5. Compliance
+- ✅ GDPR Article 25 (Data protection by design)
+- ✅ GDPR Article 32 (Security of processing)
+- ✅ RODO compliance
+- ✅ Industry best practices
+
