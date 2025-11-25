@@ -122,3 +122,11 @@ You should find sensitive data logged in:
 - ✅ RODO compliance
 - ✅ Industry best practices
 
+### Task 3 - weryfikacja bezpieczeństwa bibliotek OpenSource wykorzystywanych w projekcie
+<img width="705" height="878" alt="image" src="https://github.com/user-attachments/assets/e3c9c03b-c12d-4e05-b619-dffdffa1f3aa" />
+<img width="802" height="962" alt="image" src="https://github.com/user-attachments/assets/84862b7a-763e-47c0-84ba-9c2b4b9aad13" />
+<img width="796" height="844" alt="image" src="https://github.com/user-attachments/assets/ec72709e-e25b-4780-808c-88891798de2b" />
+
+Za to dla aplikacji korzystającej z Javy czy Pythona analiza wygląda następująco
+<img width="501" height="781" alt="image" src="https://github.com/user-attachments/assets/ab150417-3c62-486a-8438-d6499f4eef36" />
+
